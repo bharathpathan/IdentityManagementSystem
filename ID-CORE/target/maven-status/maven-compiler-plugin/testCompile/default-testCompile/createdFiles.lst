@@ -1,0 +1,3 @@
+fr\epita\core\test\TestHibernateIntegration.class
+fr\epita\core\test\TestSpringIntegration.class
+fr\epita\core\test\TestHibernateDAO.class

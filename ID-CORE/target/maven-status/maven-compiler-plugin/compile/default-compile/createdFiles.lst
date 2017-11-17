@@ -1,0 +1,7 @@
+fr\epita\core\exception\DAOSaveException.class
+fr\epita\core\exception\DAOSearchException.class
+fr\epita\core\exception\DAODeleteException.class
+fr\epita\core\exception\DAOUpdateException.class
+fr\epita\core\exception\DAOgetIdException.class
+fr\epita\core\datamodel\Identity.class
+fr\epita\core\services\HibernateIdentityDAO.class

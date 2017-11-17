@@ -1,0 +1,6 @@
+fr\epita\web\controllers\IdentityCreation.class
+fr\epita\web\controllers\IdentityUpdate.class
+fr\epita\web\controllers\IdentityModification.class
+fr\epita\web\controllers\Authenticate.class
+fr\epita\web\controllers\SearchIdentity.class
+fr\epita\web\controllers\AbstractSpringServlet.class

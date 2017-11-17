@@ -1,0 +1,5 @@
+fr.epita.core.datamodel
+fr.epita.core.exception
+fr.epita.core.services
+fr.epita.core.test
+fr.epita.web.controllers
